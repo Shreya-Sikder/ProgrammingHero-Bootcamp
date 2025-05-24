@@ -1,4 +1,7 @@
 # ProgrammingHero-Bootcamp
-1.[free video download](https://pixabay.com/) <br>
-2.[free image download](https://unsplash.com/)<br>
-3.[w3 school](https://www.w3schools.com/html/)
+
+## 📚 Resources
+
+1. [🎥 Free Video Downloads - Pixabay](https://pixabay.com/)
+2. [🖼️ Free Image Downloads - Unsplash](https://unsplash.com/)
+3. [🌐 HTML, CSS, and JS Tutorials - W3Schools](https://www.w3schools.com/html/)
